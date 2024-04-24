@@ -26,21 +26,6 @@ export const socialData = [
     Icon: RiTelegramFill,
   },
   {
-    name: "Facebook",
-    link: "https://facebook.com/gruvector",
-    Icon: RiFacebookLine,
-  },
-  {
-    name: "Twitter",
-    link: "https://twitter.com/gruvector",
-    Icon: RiTwitterFill,
-  },
-  {
-    name: "Whatsapp",
-    link: "https://wa.me/+85252876597",
-    Icon: RiWhatsappFill,
-  },
-  {
     name: "Github",
     link: "https://github.com/gruvector",
     Icon: RiGithubLine,
