@@ -15,16 +15,16 @@ import {
 } from "react-icons/ri";
 
 export const socialData = [
-  {
-    name: "Discord",
-    link: "https://discord.gg/Hg8A2F3V",
-    Icon: RiDiscordFill,
-  },
-  {
-    name: "Telegram",
-    link: "https://t.me/blackangel352",
-    Icon: RiTelegramFill,
-  },
+  // {
+  //   name: "Discord",
+  //   link: "https://discord.gg/Hg8A2F3V",
+  //   Icon: RiDiscordFill,
+  // },
+  // {
+  //   name: "Telegram",
+  //   link: "https://t.me/blackangel352",
+  //   Icon: RiTelegramFill,
+  // },
   {
     name: "Github",
     link: "https://github.com/gruvector",
