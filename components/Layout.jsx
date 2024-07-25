@@ -19,16 +19,16 @@ const Layout = ({ children }) => {
     >
       {/* metadata */}
       <Head>
-        <title>Steve Lee | Portfolio</title>
+        <title>Crypto Vector | Portfolio</title>
         <meta
           name="description"
-          content="Steve Lee is a Full-stack web developer with 6+ years of experience."
+          content="I'm a Full-stack web and blockchain engineer with 6+ years of experience."
         />
         <meta
           name="keywords"
           content="react, next, vue, nuxt, html, css, js/ts, modern-uix, svelte, portfolio, framer-motion, 3d-website, particle-effect, graphql, laravel, nodejs, mongo, postgresql"
         />
-        <meta name="author" content="Steve Lee" />
+        <meta name="author" content="Crypto Vector" />
         <meta name="theme-color" content="#f13024" />
       </Head>
 
