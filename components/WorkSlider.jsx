@@ -15,7 +15,7 @@ const workSlides = {
         {
           title: "Blockchain game1",
           path: "/bkchn_gm1.jpg",
-          link: "https://cryptoserval.io/",
+          link: "https://www.geckofs.com/",
         },
         {
           title: "Blockchain game2",
@@ -24,8 +24,8 @@ const workSlides = {
         },
         {
           title: "Blockchain game3",
-          path: "/bkchn_gm3.jpg",
-          link: "https://catnip.world/",
+          path: "/bkchn_gm3.png",
+          link: "https://www.geekyninja.co/en-de",
         },
         {
           title: "Blockchain game4",
